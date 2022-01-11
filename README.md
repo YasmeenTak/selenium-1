@@ -1,4 +1,5 @@
 # Selenium
+![Katalon](https://miro.medium.com/max/7200/1*Jkb_tsMBOvL6wQ8bzldu8Q.png)
 
 [![Python workflow](https://github.com/SeleniumHQ/selenium/workflows/Python%20workflow/badge.svg)](https://github.com/SeleniumHQ/selenium/actions?query=workflow%3A%22Python+workflow%22)
 [![Ruby workflow](https://github.com/SeleniumHQ/selenium/workflows/Ruby%20workflow/badge.svg)](https://github.com/SeleniumHQ/selenium/actions?query=workflow%3A%22Ruby+workflow%22)
